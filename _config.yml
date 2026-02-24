@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Valeria Trivellone / BioInteract"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Valeria Trivellone"
+description              : &description "The Trivellone BioInteract Lab at the University of Illinois at Urbana-Champaign focuses on cutting-edge research in pathogen/symbiont-host associations, utilizing ecological modeling approaches and modern molecular techniques. Learn about our team, projects, and publications"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,10 +27,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Champaign-Urbana ILLINOIS"
+  employer         : "University of Illinois at Urbana-Champaign"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "valeria3@illinois.edu" 
 
   # Academic websites
   academia         : # URL
