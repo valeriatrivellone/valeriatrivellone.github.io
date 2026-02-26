@@ -5,11 +5,10 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-[Download my CV] (files/Valeria_Trivellone_CV_2026.pdf)
 ---
 
 {% include base_path %}
-
+[Download my CV](files/Valeria_Trivellone_CV_2026.pdf)
 
 Education
 ======
