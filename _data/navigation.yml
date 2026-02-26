@@ -10,27 +10,21 @@
 main:
   - title: "Home"
     url: /_pages/about.md
-    
   - title: "Publications"
     url: /publications/
-
   #- title: "Talks"
   #  url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
-    
   - title: "Research"
     url: /portfolio/
-        
   - title: "Blog Posts"
     url: /year-archive/
-    
   - title: "CV"
     url: /cv/
     
   # - title: "CV"
-  #   url: /cv-json/
+  # url: /cv-json/
     
- # - title: "Guide"
+ #  - title: "Guide"
  #  url: /markdown/
