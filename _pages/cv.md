@@ -59,7 +59,7 @@ redirect_from:
   • Conference organization and scientific committee participation
   • Science communication and outreach
 
-## Publications
+## Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
