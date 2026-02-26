@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+profile_image: /image/TrivelloneV-imahe.jpeg
 ---
 "...there are two factors: namely, the nature of the organism and the nature of
 the conditions. The former seems to be much more the important; for nearly
