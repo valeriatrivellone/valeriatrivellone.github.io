@@ -9,11 +9,9 @@
 
 main:
   - title: "Home"
-    url: /_pages/about.md
+    url: /about/
   - title: "Publications"
     url: /publications/
-  #- title: "Talks"
-  #  url: /talks/    
   - title: "Teaching"
     url: /teaching/    
   - title: "Research"
@@ -28,3 +26,5 @@ main:
     
  #  - title: "Guide"
  #  url: /markdown/
+  #- title: "Talks"
+  # url: /talks/    
