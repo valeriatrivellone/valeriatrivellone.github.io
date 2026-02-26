@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,41 +9,46 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV]({{ base_path }}/files/Valeria_Trivellone_CV_2026.pdf)
+[Download my full CV]({{ base_path }}/files/Valeria_Trivellone_CV_2026.pdf)
 
-Education
+
+# Short CV
+## Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biology, University of Neuchâtel (Switzerland), 2016
+* M.S. in Environmental Science, University of Pisa, 2003
 
-Work experience
+## Professional Experiences
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2022-Present: Assistant Research Scientist, Vector Ecologist
+  * Illinois Natural History Survey, Prairie Research Institute, University of Illinois at Urbana-Champaign
+  * Duties includes: PI of NSF project
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2022: Postdoctoral Fellow
+  * Prairie Research Institute, University of Illinois at Urbana-Champaign
+  * Duties included: coordinating, performing and analysing data SWG project
+  * Supervisor: Brenda-Molano Flores and Chris Dietrich
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022: Visiting Instructor, Biological Sciences
+  * Purdue University Northwest, Hammond
+  * Duties included: Teaching
   
-Skills
+## Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Biological Skills
+  • broad knowledge of entomology
+  • specialist on identification of Auchenorrhyncha species
+  • insect rearing
+  • isolation, amplification and sequencing of DNA
+  • protein extraction and quantification, protein-protein interaction assays (e.g. western blotting)
+* Computational Skills
+  • Microsoft Office Suite, Internet Explorer,
+  • Graphical applications: Paint.net, photoshop
+  • QGis, Endnote
+  • Programming Languages: shell
 * Skill 3
 
-Publications
+## Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
