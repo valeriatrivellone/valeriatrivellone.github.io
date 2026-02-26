@@ -2,8 +2,12 @@
 permalink: /
 title: ""
 author_profile: true
-profile_image: ../images/TrivelloneV_image.jpg
+redirect_from: 
+  - /about/
+  - /about.html
+profile_image: images/TrivelloneV_image.jpg
 ---
+
 "...there are two factors: namely, the nature of the organism and the nature of
 the conditions. The former seems to be much more the important; for nearly
 similar variations sometimes arise under, as far as we can judge, dissimilar
