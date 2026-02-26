@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-profile_image: /images/TrivelloneV_image.jpg
+profile_image: ../images/TrivelloneV_image.jpg
 ---
 "...there are two factors: namely, the nature of the organism and the nature of
 the conditions. The former seems to be much more the important; for nearly
