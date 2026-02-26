@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV](files/Valeria_Trivellone_CV_2026.pdf)
+[Download my CV]({{ base_path }}/files/Valeria_Trivellone_CV_2026.pdf)
 
 Education
 ======
