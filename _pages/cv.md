@@ -35,18 +35,29 @@ redirect_from:
   
 ## Skills
 ======
-* Biological Skills
-  • broad knowledge of entomology
-  • specialist on identification of Auchenorrhyncha species
-  • insect rearing
-  • isolation, amplification and sequencing of DNA
-  • protein extraction and quantification, protein-protein interaction assays (e.g. western blotting)
-* Computational Skills
-  • Microsoft Office Suite, Internet Explorer,
-  • Graphical applications: Paint.net, photoshop
-  • QGis, Endnote
-  • Programming Languages: shell
-* Skill 3
+* Biological and Molecular Skills
+  • Broad expertise in entomology, with specialization in Auchenorrhyncha taxonomy and identification
+  • Insect collection, rearing, and experimental design
+  • DNA isolation, PCR amplification, sequencing, and molecular diagnostics
+  • Phytoplasma detection and strain characterization
+  • Protein extraction, quantification, and protein–protein interaction assays (e.g., Western blotting)
+  • Phylogenetic reconstruction and evolutionary analyses
+
+* Computational and Quantitative Skills
+  • Programming: Python, Bash/Shell scripting, R
+  • Bioinformatics workflows (sequence processing, alignment, phylogenetics)
+  • Meta-analysis and systematic review methodologies
+  • Statistical modeling (GLMs, GLMMs, GAMs)
+  • GIS analysis (QGIS)
+  • Scientific data visualization and figure preparation (Adobe Photoshop, Paint.NET)
+
+* Research and Professional Skills
+  • Grant writing and proposal development
+  • Project management and coordination of interdisciplinary collaborations
+  • Graduate and undergraduate student supervision and mentoring
+  • Scientific writing and peer-reviewed publication
+  • Conference organization and scientific committee participation
+  • Science communication and outreach
 
 ## Publications
 ======
