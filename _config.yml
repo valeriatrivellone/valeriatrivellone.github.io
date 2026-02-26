@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Valeria Trivellone / BioInteract"
+title                    : "Valeria Trivellone / BioInteract Lab"
 title_separator          : "-"
 name                     : &name "Valeria Trivellone"
 description              : &description "The Trivellone BioInteract Lab at the University of Illinois at Urbana-Champaign focuses on cutting-edge research in pathogen/symbiont-host associations, utilizing ecological modeling approaches and modern molecular techniques. Learn about our team, projects, and publications"   # Update this with a general description of your site, this is the default if not overridden by a page
