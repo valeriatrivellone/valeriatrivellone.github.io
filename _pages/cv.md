@@ -62,6 +62,8 @@ redirect_from:
 ## Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% if post.selected == true %}
+      {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ul>
   
