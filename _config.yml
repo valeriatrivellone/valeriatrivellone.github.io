@@ -23,7 +23,7 @@ repository               : "valeriatrivellone/valeriatrivellone.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   name             : "Valeria Trivellone, PhD"
   pronouns         : "she/her"  
   bio              : "Assistant Research Scientist, Vector Ecology"
