@@ -6,4 +6,20 @@ image:
   teaser: /images/editing-talk.png
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Project Overview
+
+Phytoplasmas are obligate bacterial pathogens transmitted by insect vectors and infecting hundreds of plant species worldwide. Despite their global impact, large-scale patterns of host association remain poorly understood.
+
+## Research Questions
+
+- How structured are phytoplasma–host networks globally?
+- Do host shifts follow phylogenetic constraints?
+- How does biogeography influence network structure?
+
+## Approach
+
+We integrate global occurrence databases, natural areas global screening project in our lab, and ecological network modeling to quantify large-scale patterns of host association.
+
+## Broader Impact
+
+Understanding phytoplasma host associations improves prediction of pathogen emergence and informs agricultural management strategies.
