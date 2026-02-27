@@ -3,7 +3,7 @@ title: "Global diversity of phytoplasma-host associations"
 excerpt: "Integrating global datasets to uncover ecological and evolutionary patterns in phytoplasma–host networks."
 collection: portfolio
 image:
-  teaser: /images/editing-talk.png
+  teaser: /images/Worldwide.png
 ---
 
 ## Project Overview
