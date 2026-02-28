@@ -5,8 +5,6 @@ permalink: /volunteering/
 author_profile: true
 ---
 
-# Volunteering Opportunities
-
 *Illinois Natural History Survey (INHS) Insect Collection & BioInteract Lab*
 
 I offer hands-on volunteering opportunities for students interested in entomology, biodiversity science, and natural history collections. These experiences provide practical skills in insect curation and data management while contributing to long-term biodiversity research infrastructure.
