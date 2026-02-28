@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Genetics"
 collection: teaching
-type: "Undergraduate course"
+type: "Visiting Instructor"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Purdue University Northwest, Hammond, Indianaa (USA)"
+date: 2022-08-01
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Position:** Visiting Instructor, Biological Sciences  
+**Period:** August 2022 – December 2022  
 
-Heading 1
-======
+Taught one undergraduate lecture course in Genetics and coordinated three sections of Genetics Laboratory. Responsibilities included delivering lectures on Mendelian inheritance, molecular genetics, gene expression, and population genetics; designing laboratory exercises; supervising experimental activities.
 
-Heading 2
-======
-
-Heading 3
-======
+Emphasized critical thinking, experimental design, and interpretation of genetic data through hands-on laboratory investigations.
