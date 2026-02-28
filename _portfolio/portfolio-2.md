@@ -3,7 +3,7 @@ title: "Mechanisms of diversification"
 excerpt: "Disentangling host switching and coevolutionary constraints in phytoplasma–vector evolution."
 collection: portfolio
 header:
-  teaser: Worldwide.jpg
+  teaser: cophylo.png
 ---
 
 ## Project Overview
