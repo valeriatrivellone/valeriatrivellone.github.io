@@ -1,18 +1,26 @@
 ---
+layout: single
 permalink: /
 title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
+header:
+  overlay_image: /images/banner.jpg
+  overlay_filter: 0.6
 ---
 
-"...there are two factors: namely, the nature of the organism and the nature of
+# Global Phytoplasma Ecology
+### Diversity • Diversification • Ecological Dynamics • Prediction
+
+> *"...there are two factors: namely, the nature of the organism and the nature of
 the conditions. The former seems to be much more the important; for nearly
 similar variations sometimes arise under, as far as we can judge, dissimilar
 conditions; and, on the other hand, dissimilar variations arise under conditions
-which appear to be nearly uniform."
-Darwin (1872: 32)
+which appear to be nearly uniform."*
+> — Charles Darwin, *The Origin of Species* (1872, p. 32)
 
 Short Bio
 ======
