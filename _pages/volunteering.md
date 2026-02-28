@@ -50,6 +50,6 @@ I offer hands-on volunteering opportunities for students interested in entomolog
 ## How to Apply
 
 If you are interested in volunteering, please email me at  
-[Your Email Address](mailto:valeria3@illinois.edu)
+[My Email Address](mailto:valeria3@illinois.edu)
 
 Please include a brief statement of interest and your availability.
