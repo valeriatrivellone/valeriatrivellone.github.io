@@ -23,7 +23,7 @@ conditions; and, on the other hand, dissimilar variations arise under conditions
 which appear to be nearly uniform."*
 > — Charles Darwin, *The Origin of Species* (1872, p. 32)
 
-Project Highlight
+About the Lab
 ======
 Our research investigates how interactions among plants, insects, and microbial associates shape biodiversity and drive evolutionary change. We focus on vector-borne plant pathogens, particularly phytoplasmas, as model systems to understand how host associations emerge and diversify across ecological and ecolutionary scales.
 By integrating biodiversity data, evolutionary frameworks, and quantitative ecological modeling, we aim to identify the fundamental rules governing host–pathogen associations and to predict patterns of disease risk in natural and managed landscapes.
