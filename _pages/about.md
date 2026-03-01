@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 
 header:
-  overlay_image: /images/banner.jpg
+  overlay_image: banner.jpg
   overlay_filter: 0.6
 ---
 
