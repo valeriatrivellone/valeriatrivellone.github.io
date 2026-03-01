@@ -26,3 +26,13 @@ We use individual-based models (IBMs) and machine learning approaches to evaluat
 ## Broader Impact
 
 By linking evolutionary processes, behavioral ecology, and predictive modeling, this work advances mechanistic understanding of pathogen emergence. The integration of empirical experiments with simulation-based forecasting supports proactive disease management and informs landscape-level intervention strategies.
+
+---
+
+## 🎵 Bonus Music Track
+
+**Struggle for Pleasure** – a metaphor for host manipulation  
+
+<a href="https://www.youtube.com/watch?v=pybqjwf8w8s&list=RDpybqjwf8w8s&start_radio=1" target="_blank">
+Listen on YouTube
+</a>
