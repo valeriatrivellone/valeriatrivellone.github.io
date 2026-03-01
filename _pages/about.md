@@ -1,5 +1,6 @@
 ---
-layout: splash
+layout: single
+classes: wide
 permalink: /
 title: ""
 author_profile: true
@@ -12,7 +13,7 @@ header:
   overlay_filter: 0.6
 ---
 
-# Global Phytoplasma Ecology
+# Ecology and Evolution of Biological Associations
 ### Diversity • Diversification • Ecological Dynamics • Prediction
 
 > *"...there are two factors: namely, the nature of the organism and the nature of
